@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=826&t=st=1667407878~exp=1667408478~hmac=db590c03eb3afbeac47f63778ee66e4aac2cf3136bc93e4e727089f2dab89197](https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg?w=826))]<h1 align="center">Hi 👋, I'm Kartik Malbhage</h1>
+[![MasterHead](https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg?w=826]<h1 align="center">Hi 👋, I'm Kartik Malbhage</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
