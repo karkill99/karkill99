@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkill99&label=Profile%20views&color=0e75b6&style=flat" alt="karkill99" /> </p>
 
-- 🔭 I’m currently working on **Git-Hub Repo Search**
+- 🔭 I’m currently working on **Connect_Work_Hub**
 
 - 🌱 I’m currently learning **React JS**
 
